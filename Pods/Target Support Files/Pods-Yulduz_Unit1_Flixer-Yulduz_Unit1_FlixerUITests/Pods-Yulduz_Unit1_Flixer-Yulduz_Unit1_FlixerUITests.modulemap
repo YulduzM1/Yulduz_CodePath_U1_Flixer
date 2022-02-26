@@ -1,0 +1,6 @@
+framework module Pods_Yulduz_Unit1_Flixer_Yulduz_Unit1_FlixerUITests {
+  umbrella header "Pods-Yulduz_Unit1_Flixer-Yulduz_Unit1_FlixerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

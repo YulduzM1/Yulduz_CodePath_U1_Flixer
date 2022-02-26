@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Yulduz_Unit1_Flixer_Yulduz_Unit1_FlixerUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Yulduz_Unit1_Flixer_Yulduz_Unit1_FlixerUITests
+@end
